@@ -1,6 +1,6 @@
 {
   "name": "@kurtharriger/jp-kernel",
-  "version": "0.0.2-wdio-repl",
+  "version": "0.1.0-wdio-repl",
   "description": "Generic Node.js kernel for the Jupyter notebook",
   "keywords": [
     "kernel",
